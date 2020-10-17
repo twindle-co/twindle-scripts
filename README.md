@@ -6,4 +6,3 @@ Get twindle repository's issues and contributor list directly from terminal Term
 ## Requirements
 
 - Node.js 10.x.x
-- npm 'node-fetch' package 📦
