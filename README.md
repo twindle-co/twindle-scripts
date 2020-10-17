@@ -7,3 +7,7 @@ Get twindle repository's issues and contributor list directly from terminal Term
 
 - Node.js 10.x.x
 - npm 'node-fetch' package 📦
+
+<br>
+
+For more information look at [list-committors/README.md](list-committors/README.md)
