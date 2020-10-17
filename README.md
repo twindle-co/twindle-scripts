@@ -10,4 +10,4 @@ Get twindle repository's issues and contributor list directly from terminal Term
 
 <br>
 
-For more information look at [list-committors/README.md](list-committors/README.md)
+For more information look at [list-committers/README.md](list-committers/README.md)
