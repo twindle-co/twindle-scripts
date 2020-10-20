@@ -1,0 +1,14 @@
+{
+	"name": "aws-ses-email",
+	"version": "1.0.0",
+	"description": "Sending emails using AWS SES",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"aws-sdk": "^2.775.0",
+		"handlebars": "^4.7.6"
+	},
+	"scripts": {
+		"start": "node ."
+	}
+}
