@@ -4,13 +4,11 @@ This module sends email using AWS SES with aws-sdk for nodejs.
 
 ## Run
 
-```shell
-yarn start
-```
+This is a lambda function, you can run it using the index.handler
 
 ## Config
 
-Uses the `aws.config.json` from the root of twindle-scripts
+Uses enviroment vars to authenticate AWS by using IAM
 
 ## Ideas
 
