@@ -105,3 +105,6 @@ dist
 
 .DS_Store
 yarn.lock
+
+# should not be commited
+aws.config.json

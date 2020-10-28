@@ -1,5 +1,8 @@
 const AWS = require("aws-sdk");
-const { region, accessKeyId, secretAccessKey } = require("../../aws.config.json");
+
+const accessKeyId = process.env.ACCESS_KEY_ID;
+const secretAccessKey = process.env.SECRET_ACCESS_KEY;
+const region = process.env.REGION;
 
 const creds = new AWS.Credentials({ accessKeyId, secretAccessKey });
 
